@@ -1,0 +1,22 @@
+site_name: CF iViewer JavaScript API
+site_url: http://docs.commandfusion.com/scripting
+repo_url: https://github.com/CommandFusion/iViewer-JavaScript-API
+site_author: CommandFusion
+theme: readthedocs
+pages:
+- ['index.md', 'Home']
+- ['intro.md', 'Introduction']
+- ['modules.md', 'Module Guidelines']
+- ['startup.md', 'Startup Mechanism']
+- ['debug.md', 'Debugger']
+- ['resources.md', 'Resources']
+- ['howto.md', 'FAQ and How-Tos']
+- ['changes.md', 'Changes History']
+- ['globals.md', 'API', 'Globals']
+- ['gui.md', 'API', 'GUI']
+- ['lists.md', 'API', 'Lists']
+- ['display.md', 'API', 'Display']
+- ['net.md', 'API', 'Network & Comms']
+- ['video.md', 'API', 'Video']
+- ['sensors.md', 'API', 'Sensors & GPS']
+- ['util.md', 'API', 'Utilities']

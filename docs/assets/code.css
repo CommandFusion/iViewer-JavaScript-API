@@ -1,0 +1,6 @@
+pre code						{ color: #f8f8f8 }
+pre code .keyword				{ color: #fbde2d }
+pre code .string, code .regexp	{ color: #61ce3c }
+pre code .class, code .special	{ color: #ff6400 }
+pre code .number				{ color: #d8fa3c }
+pre code .comment				{ color: #aeaeae }
